@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sreya P Sivan</h1>
 
-<!--
-**sreya1204/sreya1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Java Full Stack Developer | B.Tech CSE Graduate | Passionate about Learning & Building
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science & Engineering Graduate
+- 💻 Aspiring Java Full Stack Developer
+- 🌱 Currently learning Spring Boot, Data Structures & Algorithms, and Backend Development
+- 🚀 Passionate about building scalable and user-friendly applications
+- 📚 Always learning new technologies and improving my coding skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java
+- Python
+- JavaScript
+- C
+
+**Frontend**
+- HTML
+- CSS
+- React.js
+
+**Backend**
+- Spring Boot
+- Node.js
+- Express.js
+
+**Database**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- Postman
+
+---
+
+## 📈 Currently Working On
+
+- Java Full Stack Development
+- Spring Boot Projects
+- Data Structures & Algorithms
+- LeetCode Problem Solving
+
+---
+
+## 🎯 Goals
+
+- Become a skilled Software Engineer
+- Build impactful real-world applications
+- Contribute to open-source projects
+- Continuously improve problem-solving skills
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: **sreyasivan12032004@gmail.com**
+
+💼 LinkedIn: **www.linkedin.com/in/sreya-p-sivan-904034418**
+
+🐙 GitHub: **github.com/sreya1204**
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
