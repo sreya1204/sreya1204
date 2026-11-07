@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreya P Sivan</h1>
 
 <h3 align="center">
-Java Full Stack Developer | B.Tech CSE Graduate | Passionate about Learning & Building
+ Full Stack Developer | B.Tech CSE Graduate | Passionate about Learning & Building
 </h3>
 
 ---
